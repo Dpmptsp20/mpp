@@ -11,7 +11,7 @@
     <link rel="icon" href="<?=base_url();?>assets/img/core-img/log.png">
    <link rel="icon" href="<?=base_url();?>assets/css/anim.css">
 
-  <title>Admin Mal Pelayanan Publik coba</title>
+  <title>Admin Mal Pelayanan Publik 1 </title>
 
   <!-- Custom fonts for this template-->
   <link href="<?=base_url();?>assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
